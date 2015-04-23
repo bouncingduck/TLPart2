@@ -6,3 +6,4 @@ if arr.include?(4)
 else
   puts "No, the number isn't in the array."
 end
+
